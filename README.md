@@ -36,7 +36,7 @@ table th:nth-of-type(8) {
 
 |                       视觉                        |                       机械                        |                       电气                        |                       电控                        |                       软件                        |                       算法                        |                       实施                        |                       运维                        |
 | :-----------------------------------------------: | :-----------------------------------------------: | :-----------------------------------------------: | :-----------------------------------------------: | :-----------------------------------------------: | :-----------------------------------------------: | :-----------------------------------------------: | :-----------------------------------------------: |
-| <img src="./img/测试.jpg" width="64" height="64"> | <img src="./img/测试.jpg" width="64" height="64"> | <img src="./img/测试.jpg" width="64" height="64"> | <img src="./img/测试.jpg" width="64" height="64"> | <img src="./img/测试.jpg" width="64" height="64"> | <img src="./img/测试.jpg" width="64" height="64"> | <img src="./img/测试.jpg" width="64" height="64"> | <img src="./img/测试.jpg" width="64" height="64"> |
+| <img src="./img/测试.jpg" width="64" height="64"> | <img src="./img/测试.jpg" width="64" height="64"> | <img src="./img/测试.jpg" width="64" height="64"> | <img src="./img/测试.jpg" width="64" height="64"> | <img src="./img/测试.jpg" width="64" height="64"> | <img src="./img/测试.jpg" width="64" height="64"> | <a herf="#实施"><img src="./img/工具.png" width="64px" height="64px"/></a> | <img src="./img/测试.jpg" width="64" height="64"> |
 
 # 工控地图
 <img src="./img/工控地图.png">
