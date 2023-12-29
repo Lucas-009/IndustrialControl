@@ -30,6 +30,8 @@
 
 # 项目经验
 - [远程通信管理](./ProjectExperience/远程通信管理.md)
+- [现场管理](./ProjectExperience/现场管理.md)
+- [采购经验](./ProjectExperience/采购经验.md)
 
 
 
