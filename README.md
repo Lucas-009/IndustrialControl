@@ -14,9 +14,11 @@
 # 机械
 
 # 电气
+- [电气常用物料](./Electrical/电气常用物料.md)
 
 # 电控
 - [相机驱动](./ElectronicControl/相机驱动.md)
+- [MC 协议](./ElectronicControl/MC协议.md)
 
 # 软件
 
